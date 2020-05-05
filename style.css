@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: linear-gradient( );
+   
+    background:linear-gradient(0deg,#16c9f6 55%, #000 40%)
+  }
+  
+  h1 {
+    text-align: center;
+    color: lightskyblue;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+  h3 {
+    text-align: center;
+    color: #666666;
+   
+      font-family: 'Poppins', sans-serif;
+  }
+  
